@@ -4,7 +4,7 @@
 
 - macOS (Intel or Apple Silicon)
 - Xcode Command Line Tools
-- - Run the following if you don't already have the Xcode Command Line Tools:
+  - Run the following if you don't already have the Xcode Command Line Tools:
 
   ```bash
   xcode-select --install
