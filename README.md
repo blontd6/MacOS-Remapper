@@ -4,9 +4,8 @@
 
 - macOS (Intel or Apple Silicon)
 - Xcode Command Line Tools
-- (run
-- ```xcode-select --install```
--  if you don't have them)
+- (run ```bash
+- xcode-select --install``` if you don't have them)
 
 ### Building the Project
 In your terminal:
