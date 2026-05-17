@@ -28,14 +28,10 @@ In your terminal:
 ## Usage
 
 ### Running the App
-
+build.sh runs chmod +x
 Start the utility from your terminal: 
 ```bash
 ./KeyRemapper
-```
-if this doesnt work then make it executable by using   
-```bash 
-chmod +x KeyRemapper
 ```
 ### Granting Permissions
 
