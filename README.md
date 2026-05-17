@@ -20,6 +20,10 @@ In your terminal:
    ```
 
 2. Run the build script:
+
+   
+   (might need sudo)
+   
    ```bash
    sh build.sh
    ```
@@ -28,7 +32,6 @@ In your terminal:
 ## Usage
 
 ### Running the App
-build.sh runs chmod +x
 Start the utility from your terminal: 
 ```bash
 ./KeyRemapper
