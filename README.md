@@ -29,11 +29,11 @@ In your terminal:
 
 ### Running the App
 
-Start the utility from your terminal:
+Start the utility from your terminal: 
 ```bash
 ./KeyRemapper
 ```
-
+if this doesnt work give it more perms by using chmod +x KeyRemapper
 ### Granting Permissions
 
 Because this tool intercepts keyboard events, macOS requires **Accessibility Permissions**:
