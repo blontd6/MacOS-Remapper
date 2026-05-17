@@ -33,7 +33,10 @@ Start the utility from your terminal:
 ```bash
 ./KeyRemapper
 ```
-if this doesnt work then make it executable by using   ```bash chmod +x KeyRemapper ```
+if this doesnt work then make it executable by using   
+```bash 
+chmod +x KeyRemapper
+```
 ### Granting Permissions
 
 Because this tool intercepts keyboard events, macOS requires **Accessibility Permissions**:
